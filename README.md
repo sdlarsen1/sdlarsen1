@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdlarsen1&count_private=trueshow_icons=true)]
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdlarsen1&count_private=true&show_icons=true)
 
 
 <!--
