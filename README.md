@@ -1,6 +1,6 @@
 ### Hello there 👋
 ![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdlarsen1&count_private=true&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdlarsen1&theme=dracula&count_private=true&hide=html&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdlarsen1&theme=dracula&hide=html&layout=compact)
 
 
 <!--
